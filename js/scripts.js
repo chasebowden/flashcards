@@ -125,9 +125,9 @@ $(document).ready(function() {
         // $(".show").toggleClass("hidden");
 
   });
-  $("#gitHub").click(function() {
+  $("#closeAll").click(function() {
         //$(".hidden").removeClass();
-    $("#gitHub span").toggleClass("show");
+    $(".show").removeClass("show");
         // $(".show").toggleClass("hidden");
 
   });

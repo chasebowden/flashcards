@@ -5,3 +5,38 @@ span{
 .show{
   color: blue;
 }
+
+h1{
+  text-align: center;
+}
+
+.jumbotron2{
+  width: 90%;
+  display: flex;
+  align-items: center;
+  margin: 100px;
+
+
+
+}
+
+.contact{
+  margin: 150px;
+  border: 40px solid lightgrey;
+  padding: 40px;
+  background-color: lightgrey;
+  border-radius: 5%;
+}
+
+.jumbotron{
+  background-color: darksalmon;
+  text-align: center;
+  align-items: center;
+  border: 50px solid seagreen;
+  border-radius: 5%;
+}
+
+#closeAll p{
+  font-weight: bold;
+  text-decoration: underline;
+}
